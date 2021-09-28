@@ -4,7 +4,7 @@ This is Peer-graded Assignment for Getting and Cleaning Data Course Project
 
 This Github repo contains following files: README.md, CodeBook.md, run_analysis.R , Tidy_Data.txt, 
 
- - The README explains the analysis files is clear and understandable
+ - The README explains the analysis files.
  - The CodeBook.md describes the variables, the data, and any transformations or work that were performed to clean up the data. 
 
  - The R script called run_analysis.R does the following: 
