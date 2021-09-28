@@ -33,3 +33,5 @@
 - Appropriately labeled the data set with descriptive variable names. 
 - Created tidy data set with the average of each variable for each activity and each subject.
 
+# Output:
+- Obtained Tidy_Data set with average of each variable for each activity and each subject
