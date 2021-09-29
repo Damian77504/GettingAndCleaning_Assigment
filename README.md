@@ -1,4 +1,4 @@
-# GettingAndCleaning_Assigment
+# GettingAndCleaning_Assignment
 
 This is Peer-graded Assignment for Getting and Cleaning Data Course Project
 
